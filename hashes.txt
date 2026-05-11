@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kobor
+
+This log tracks the cryptographic history and versioning for the song **Kobor** (kobor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T07:09:57.267630 | `v1` | `e4aa3fbafb0e4b70fe14f2a1b0d5314fd78930d90bc645856d9a379b28def3e1` | `606cf3fb6685320b40fb9c9505ffb919e054c471d74a686f14d9cfda27d10383` | `2026-05-11_kobor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
